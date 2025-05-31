@@ -49,7 +49,7 @@
 
 # メモ
 #  [[3B1-KS-13] 希望ある未来に向けたAGIの安全性とアライメント](https://confit.atlas.jp/guide/event/jsai2025/session/3B01-01/tables?kjigNwnsCZ)
-
+AIアライメントネットワーク（ALIGN）によるセッション
 ## AGI総論
 
 - 人間とAIとAGIの混成系としての社会の健全性確保
